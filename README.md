@@ -111,5 +111,5 @@ This project proposes a **two-stage frequency-based detection system** that uses
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/AI-vs-Human-Generated-Image-Classification.git
+   git clone git@github.com:Bhanuka-botheju/ai-vs-human-generated-image-classification-.git
    cd AI-vs-Human-Generated-Image-Classification
